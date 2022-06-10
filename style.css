@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+   background-color: hsl(0, 0%, 95%);
+}
+
+main {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    
+    
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+   
+}
+
+.wrapper {
+  
+    display: inline-flex;
+    max-width: 750px;
+    min-height: 400px;
+   
+   
+    
+}
+
+#sedans-box {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: hsl(31, 77%, 52%);
+}
+
+.sedans-image {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-right: 100px;
+}
+
+#sedans-box h1 {
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 80px;
+}
+#sedans-box p {
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 10px;
+    margin: 20px;
+    text-align: start;
+}
+
+#sedans-box button {
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 30px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+ #sedans-box a {
+   color: hsl(31, 77%, 52%);
+ }
+
+
+
+
+#suvs-box {
+  
+    background-color: hsl(184, 100%, 22%);
+}
+
+
+.suvs-image {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-right: 100px;
+}
+
+#suvs-box h1 {
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 80px;
+}
+#suvs-box p {
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 10px;
+    margin: 20px;
+    text-align: start;
+}
+
+#suvs-box button {
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 30px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+#suvs-box a {
+    color: hsl(184, 100%, 22%)
+  }
+ 
+
+#luxury {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: hsl(179, 100%, 13%);
+}
+
+
+.luxury-image {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-right: 100px;
+}
+
+#luxury h1 {
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 80px;
+}
+#luxury p {
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 10px;
+    margin: 20px;
+    text-align: start;
+}
+
+#luxury button {
+    background-color: hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 30px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+#luxury a {
+    color: hsl(179, 100%, 13%);
+  }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
